@@ -1,67 +1,52 @@
-# Reselling Refurbished PlayStation Consoles
+# ProjectX Web Application
 
-Welcome to the Reselling Refurbished PlayStation Consoles project!
+## Overview
 
-## Table of Contents
+This repository contains the source code for ProjectX, a web application aimed at building a responsive and user-friendly platform.
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Quality Assurance](#quality-assurance)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+## Repository Structure
 
-## Introduction
+The project follows a structured folder organization:
 
-The Reselling Refurbished PlayStation Consoles project is a platform dedicated to providing high-quality refurbished PlayStation consoles to gaming enthusiasts. Our goal is to offer reliable and performance-tested consoles, ensuring an excellent gaming experience.
+- **src:** Contains the source code for the web application.
+- **docs:** Includes documentation related to the project.
+- **tests:** Holds files related to testing.
 
-## Features
+## Branches
 
-- Quality Refurbished PlayStation Consoles
-- Fast and Secure Shipping
-- 24/7 Customer Support
-- Money-Back Guarantee
+### feature/add-homepage
 
-## Getting Started
+The `feature/add-homepage` branch was created to develop the initial version of the one-page website. It includes sections like header, about, services, contact, etc. 
 
-Follow these steps to get started with the Reselling Refurbished PlayStation Consoles project.
+#### Instructions for Collaborator
 
-### Prerequisites
+Another student was invited to collaborate on this repository. They created a branch named `feature/add-about-page` to work on the about page.
 
-Before you begin, ensure you have the following:
+### feature/add-about-page
 
-- A web browser
-- An internet connection
+The collaborator made changes related to an about page in this branch. A pull request was submitted to merge it into the main branch.
 
-### Installation
+#### Pull Request Review
 
-No installation is required since this project is a web-based platform. Simply visit our website to explore our offerings.
+The pull request was reviewed, and constructive comments and suggestions for improvement were provided.
 
-## Usage
+### Merging and Conflict Resolution
 
-Visit our website to browse through our selection of refurbished PlayStation consoles. Place an order, and experience the joy of gaming with quality consoles.
+The `feature/add-about-page` branch was merged into the main branch. A deliberate conflict was introduced between the main branch and `feature/add-homepage`. The conflict was resolved, and changes were committed.
 
-## Quality Assurance
+### Version Control Analysis and Problem-solving
 
-Our team ensures that each console undergoes a rigorous refurbishment process to guarantee top-notch performance and reliability. We conduct thorough testing to meet the highest quality standards.
+A bug was intentionally introduced in the code. Git commands were used to identify the commit that introduced the bug. Steps to rectify the bug were explained.
 
-## Contributing
+### Documentation and Repository Management
 
-We welcome contributions to enhance the Reselling Refurbished PlayStation Consoles project. If you have ideas, bug reports, or feature requests, feel free to open an issue or submit a pull request.
+The README file was updated with instructions on how to run the project. All branches were appropriately managed, and unnecessary branches were deleted.
 
-## License
+## How to Run the Project
 
-This project is licensed under the [MIT License](LICENSE).
+Follow these steps to run the ProjectX web application:
 
-## Contact
+1. Clone the repository:
 
-For inquiries or more information, feel free to contact us:
-
-- Email: info@psconsoles.com
-- Twitter: [@PSConsoles](https://twitter.com/PSConsoles)
-
-Thank you for choosing Reselling Refurbished PlayStation Consoles!
+   ```bash
+   git clone https://github.com/your-username/ProjectX.git
