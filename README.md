@@ -55,10 +55,12 @@ Follow these steps to run the ProjectX web application:
 cd ProjectX
 
 3. Open the HTML file in a web browser:
-   ### Bash
+   Clone the repository:
 
-open index.html   # For MacOS
-start index.html  # For Windows
+`` `bash
+git clone https://github.com/your-username/ProjectX.git
+`` `
+
 
 ### Summary
 
