@@ -50,3 +50,17 @@ Follow these steps to run the ProjectX web application:
 
    ```bash
    git clone https://github.com/your-username/ProjectX.git
+2. Navigate to the project directory:
+
+cd ProjectX
+
+3. Open the HTML file in a web browser:
+   ###bash
+
+open index.html   # For MacOS
+start index.html  # For Windows
+
+##Summary
+
+Feel free to adapt the instructions based on the specific requirements and tools of your project.
+
