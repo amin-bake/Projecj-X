@@ -52,7 +52,9 @@ Follow these steps to run the ProjectX web application:
    git clone https://github.com/your-username/ProjectX.git
 2. Navigate to the project directory:
 
+```bash
 cd ProjectX
+```
 
 3. Open the HTML file in a web browser:
    Clone the repository:
