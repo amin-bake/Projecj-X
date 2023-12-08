@@ -55,12 +55,12 @@ Follow these steps to run the ProjectX web application:
 cd ProjectX
 
 3. Open the HTML file in a web browser:
-   ###bash
+   ### Bash
 
 open index.html   # For MacOS
 start index.html  # For Windows
 
-##Summary
+### Summary
 
 Feel free to adapt the instructions based on the specific requirements and tools of your project.
 
